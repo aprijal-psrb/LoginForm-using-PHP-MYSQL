@@ -21,10 +21,10 @@ public class SQLiteHandler extends SQLiteOpenHelper {
     private static final int DATABASE_VERSION = 1;
 
     // Database Name
-    private static final String DATABASE_NAME = "android_api";
+    private static final String DATABASE_NAME = "asa";
 
     // Login table name
-    private static final String TABLE_LOGIN = "login";
+    private static final String TABLE_LOGIN = "users";
 
     // Login Table Columns names
     private static final String KEY_ID = "id";
