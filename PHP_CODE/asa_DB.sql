@@ -1,4 +1,4 @@
-create database asa;
+CREATE DATABASE IF NOT EXISTS asa;
  
 use asa;
  
