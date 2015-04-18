@@ -3,7 +3,7 @@
 /**
  * A class file to connect to database
  */
-class DB_CONNECT {
+class DB_Connect {
  
     // constructor
     function __construct() {
